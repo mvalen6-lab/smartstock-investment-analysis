@@ -1,0 +1,36 @@
+SmartStock Analyzer
+-------------------
+Educational stock analysis tool. This is not financial advice.
+
+Company Overview
+----------------
+Ticker: NVDA
+Company Name: NVIDIA Corporation
+Sector: Technology
+Industry: Semiconductors
+
+Key Investment Metrics
+----------------------
+Current Price: $210.42
+Market Cap: $5.11T
+P/E Ratio: 42.94
+Forward P/E: 18.72
+Profit Margin: 55.60%
+Revenue Growth: 73.20%
+Dividend Yield: 2.00%
+Debt-to-Equity: 7.25
+52-Week High: $216.83
+52-Week Low: $104.08
+Analyst Target Price: $268.61
+
+Educational Investment Quality Score
+------------------------------------
+Score: 85/100
+Strong fundamentals based on the selected metrics.
+
+Simple Analysis Summary
+-----------------------
+- The company appears highly valued based on its P/E ratio.
+- Profit margins are strong, which may suggest good profitability.
+- Revenue growth appears strong.
+- Debt levels appear relatively controlled.
